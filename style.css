@@ -1,0 +1,25 @@
+
+#playButton{
+	height:128px;
+	width: 128px;
+	border: none;
+	background-size: 50% 50%;
+	background-position: center;
+  background : url('./play.png') no-repeat;
+	float:left;
+  margin-right:5px;
+
+
+}
+#pauseButton{
+	 height:128px;
+	 width: 128px;
+	 border: none;
+	 background-size: 50% 50%;
+	 background-position: center;
+   background: url('./pause.png') no-repeat;
+	 float:left;
+   margin-right:5px;
+
+ 
+ }
